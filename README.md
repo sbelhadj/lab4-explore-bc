@@ -1,4 +1,4 @@
-# 🌍 Lab 3 : Explorer une Blockchain Publique  
+# 🌍 Lab 4 : Explorer une Blockchain Publique  
 
 ## 🎯 Objectif  
 ✅ Analyser des transactions Ethereum sur **Etherscan** et **BlockScout**  
