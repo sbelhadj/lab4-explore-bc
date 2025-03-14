@@ -11,7 +11,7 @@
 1. Allez sur **[Etherscan](https://etherscan.io/)**  
 2. Recherchez cette transaction :  
 
-0xa24b6f2781e81247686d9c88ea93a16b7934c3c22b8d6303e5e18bf8ad9ccff3
+0xdccc3657eac00a547dfb3e8826e4ccdc92a65c9a999a5fff18092afceb27de88
 
 
 3. Notez les informations suivantes :  
@@ -27,7 +27,7 @@
 1. Ouvrez **[BlockScout](https://blockscout.com/)**  
 2. Recherchez cette adresse de smart contract :  
 
-0x6fC1aA19a42c2DCE268BAE5157a1b3940F6dbD57
+0xdAC17F958D2ee523a2206206994597C13D831ec7
 
 
 3. Notez :  
